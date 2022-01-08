@@ -1,1 +1,50 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+body {
+  background-color: green;
+}
+
+.card {
+  height: 50%;
+  width: 25%;
+  background-color: white;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+}
+
+.spade {
+  color: black;
+}
+
+.club {
+  color: black;
+}
+
+.heart {
+  color: red;
+}
+
+.diamond {
+  color: red;
+}
+
+#icon-top {
+  font-size: 3rem;
+  margin-left: 15px;
+}
+#icon-bottom {
+  font-size: 3rem;
+  margin-top: 1rem;
+  margin-left: 13rem;
+  position: relative;
+}
+
+#number {
+  font-size: 8rem;
+  text-align: center;
+  margin-top: 0rem;
+}
