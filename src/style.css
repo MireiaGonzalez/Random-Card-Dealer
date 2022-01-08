@@ -6,7 +6,7 @@ body {
 
 .card {
   height: 50%;
-  width: 25%;
+  width: 18%;
   background-color: white;
   position: absolute;
   left: 0;
@@ -39,7 +39,7 @@ body {
 #icon-bottom {
   font-size: 3rem;
   margin-top: 1rem;
-  margin-left: 13rem;
+  margin-left: 14rem;
   position: relative;
 }
 
